@@ -1,0 +1,7 @@
+import io.netty.channel.socket.nio.NioDatagramChannelConfig;
+public class FunctionUse3054 {
+public void funcUse() {
+NioDatagramChannelConfig niodatagramchannelconfig = new NioDatagramChannelConfig();
+niodatagramchannelconfig.setAutoRead(null);
+}
+}
